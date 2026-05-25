@@ -2,15 +2,6 @@
 
 这是一个大模型学习笔记项目，首期内容聚焦 **LlamaFactory 的部署、训练与 LoRA 微调验证**。
 
-## 笔记目录
-
-- [LlamaFactory 部署+训练+微调实战笔记（第一期）](./llamafactory-training-finetune-notes.md)
-
-## 图片引用说明（GitHub）
-
-- GitHub 支持 Markdown 图片引用。
-- 本项目使用相对路径引用图片，例如：`./image/llama-4.png`。
-- 只要图片文件一并提交到仓库，GitHub 页面即可正常显示。
 
 ## 实验环境（本机配置）
 
@@ -23,6 +14,13 @@
   - `Colorful CN600 512GB PRO SSD`（约 477 GB）
 - 系统类型：`64 位操作系统（x64）`
 - 触控支持：`无`
+
+
+
+## 笔记目录
+
+- [LlamaFactory 部署+训练+微调实战笔记（第一期）](./llamafactory-training-finetune-notes.md)
+
 
 
 ## 后续规划
