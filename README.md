@@ -2,10 +2,8 @@
 
 这是一个大模型学习笔记项目，首期内容聚焦 **LlamaFactory 的部署、训练与 LoRA 微调验证**。
 
-
 ## 实验环境（本机配置）
 
-- 设备名：`MS-OSZWWFYJVGFL`
 - 处理器：`AMD Ryzen 5 5600 6-Core Processor @ 3.50 GHz`
 - 内存：`16.0 GB RAM`
 - 显卡：`NVIDIA GeForce RTX 4060 (8 GB)`
@@ -13,7 +11,6 @@
   - `Fanxiang S790E 1TB SSD`（约 932 GB）
   - `Colorful CN600 512GB PRO SSD`（约 477 GB）
 - 系统类型：`64 位操作系统（x64）`
-- 触控支持：`无`
 
 
 
